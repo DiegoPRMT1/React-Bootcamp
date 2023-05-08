@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       {mensaje}
       {/* Se importa desde un fichero externo, de hecho le vamos a pasar props(parametros en react) */}
-      <Mensaje message="Esto es un curso de react" />
+      <Mensaje message="Esto es un curso de reactt" />
       <Description />
     </div>
   );
